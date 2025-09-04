@@ -1,0 +1,2 @@
+User is redirected to login page.
+All test cases passed!

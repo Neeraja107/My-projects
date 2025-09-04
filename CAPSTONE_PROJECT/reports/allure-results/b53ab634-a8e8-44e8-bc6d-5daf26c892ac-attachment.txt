@@ -1,0 +1,3 @@
+Account is created successfully.
+The page is working with invalid email
+All test cases passed!
